@@ -1,0 +1,42 @@
+.Weather{
+    height: 300px;
+    width: 300px;
+    background:antiquewhite;
+    color: #000;
+    box-shadow: 10px 10px gray;
+    justify-content: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+}
+.main p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+    background-color: yellow;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    
+  }
+  #inp{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding-top: 2px;
+    margin: 10px;
+    box-shadow: 3px 3px gray;
+    
+  }
+  #cent
+  {
+    padding-top: 60px;
+  }
+  h2{
+    padding-top: 3px;
+    color: blueviolet;
+  }
